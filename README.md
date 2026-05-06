@@ -138,3 +138,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 📄 License
 
 Distributed under the MIT License. See LICENSE for more information.
+
+The source code is not in this repo; it is in a separate private repository.
+
+If the client asks,  we can tell them
