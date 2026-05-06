@@ -3,30 +3,48 @@ Here it is Chat bot project used LangChain Framework and integration with  Groq 
 .........................
 🌟 Key Features
 
-🧠 Advanced RAG Architecture: Utilizes LangChain and Hugging Face  for efficient retrieval of policy information.
+🧠 Advanced RAG Architecture:
+Utilizes LangChain and Hugging Face  for efficient retrieval of policy information.
 
-⚡ High-Performance LLM: Powered by Groq for lightning-fast response generation.
+⚡ High-Performance LLM:
+Powered by Groq for lightning-fast response generation.
 
-🔐 Magic Link Authentication: Secure, passwordless login system using email verification.
+🔐 Magic Link Authentication: 
+Secure, passwordless login system using email verification.
 
-🛡️ Admin Dashboard: Full User Management system for admins to add, update, or delete users and manage roles.
+🛡️ Admin Dashboard:
+Full User Management system for admins to add, update, or delete users and manage roles.
 
-💬 Streaming Interface: Modern, responsive chat UI with real-time "typing" effect (Server-Sent Events).
+💬 Flask  Interface:
+Modern, responsive chat UI with real-time "typing" effect (Server-Sent Events).
 
-📂 Automatic Document Sync: Automatically detects new .txt files in the policy/ directory and updates the vector database.
+📂 Automatic Document Sync:
+Automatically detects new .txt files in the policy/ directory and updates the vector database.
 ...................................
-🐳 Dockerized: Easy deployment using Docker and Docker Compose.
+🐳 Dockerized:
+Easy deployment using Docker and Docker Compose.
 ......................................
 🛠️ Tech Stack
+
 .......................................
-Backend: Flask (Python)
-AI Framework: LangChain
-Vector Database: ChromaDB
-LLM Provider: Groq (Llama 3 / Mixtral)
-Embeddings: HuggingFace (all-MiniLM-L6-v2)
-Database: SQLite (User management & Chat history)
-Styling: Vanilla CSS with modern UI components
+
+Backend:
+Flask (Python)
+AI Framework: 
+LangChain, Hugging Face 
+Vector Database:
+ChromaDB
+LLM Provider: 
+Groq (Llama 3 / Mixtral)
+Embeddings:
+HuggingFace (all-MiniLM-L6-v2)
+Database:
+SQLite (User management & Chat history)
+Styling:
+Vanilla CSS with modern UI components
+
 🚀 Getting Started
+
 1. Prerequisites
 Python 3.9+
 Docker (optional)
