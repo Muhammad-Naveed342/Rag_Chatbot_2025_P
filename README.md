@@ -7,6 +7,11 @@ A RAG (Retrieval-Augmented Generation) chatbot is an AI assistant that links a L
 
 🌟 Key Features
 
+demo link 🔗
+
+https://drive.google.com/file/d/1Sd6CgibfSxEWYm7a3H_igb7YIiArmU-X/view?usp=drive_link
+
+
 🧠 Advanced RAG Architecture:
 
 Utilizes LangChain and Hugging Face  for efficient retrieval of policy information.
