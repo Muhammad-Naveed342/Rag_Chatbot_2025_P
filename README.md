@@ -1,36 +1,49 @@
 # 🤖 RAG Company Policy Chatbot
 Here it is Chat bot project used LangChain Framework and integration with  Groq API  used Flask API login with Magic Mail Link A RAG (Retrieval-Augmented Generation) chatbot is an AI assistant that links a Large Language Model (LLM) to your own private or specific data to provide more accurate and up-to-date answers. 
 .........................
+
 🌟 Key Features
 
 🧠 Advanced RAG Architecture:
+
 Utilizes LangChain and Hugging Face  for efficient retrieval of policy information.
 
 ⚡ High-Performance LLM:
+
 Powered by Groq for lightning-fast response generation.
 
-🔐 Magic Link Authentication: 
+🔐 Magic Link Authentication:
+
 Secure, passwordless login system using email verification.
 
 🛡️ Admin Dashboard:
+
 Full User Management system for admins to add, update, or delete users and manage roles.
 
 💬 Flask  Interface:
+
 Modern, responsive chat UI with real-time "typing" effect (Server-Sent Events).
 
 📂 Automatic Document Sync:
+
 Automatically detects new .txt files in the policy/ directory and updates the vector database.
+
 ...................................
 🐳 Dockerized:
+
 Easy deployment using Docker and Docker Compose.
+
 ......................................
+
 🛠️ Tech Stack
 
 .......................................
 
 Backend:
+
 Flask (Python)
-AI Framework: 
+AI Framework:
+
 LangChain, Hugging Face 
 Vector Database:
 ChromaDB
