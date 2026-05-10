@@ -4,6 +4,14 @@ Here it is Chat bot project used LangChain Framework and integration with  Groq 
 
 A RAG (Retrieval-Augmented Generation) chatbot is an AI assistant that links a Large Language Model (LLM) to your own private or specific data to provide more accurate and up-to-date answers. 
 
+# Important Info for Client 
+
+The source code is not in this repo; it is in a separate private repository.
+
+If the client asks,  we can tell them
+
+
+
 
 🌟 Key Features
 
