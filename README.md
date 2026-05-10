@@ -15,12 +15,12 @@ If the client asks,  we can tell them
 
 🌟 Key Features
 
-demo link 🔗
+# demo link 🔗
 
 https://drive.google.com/file/d/11LCklBHBWvImSX2eUl9dhJDt-RrhZtyn/view?usp=drive_link
 
 
-🧠 Advanced RAG Architecture:
+# 🧠 Advanced RAG Architecture:
 
 Utilizes LangChain and Hugging Face  for efficient retrieval of policy information.
 
